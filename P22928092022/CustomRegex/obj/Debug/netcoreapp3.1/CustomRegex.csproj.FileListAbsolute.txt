@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\bin\Debug\netcoreapp3.1\CustomRegex.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\bin\Debug\netcoreapp3.1\CustomRegex.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\bin\Debug\netcoreapp3.1\CustomRegex.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\bin\Debug\netcoreapp3.1\CustomRegex.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\bin\Debug\netcoreapp3.1\CustomRegex.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\bin\Debug\netcoreapp3.1\CustomRegex.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\CustomRegex\obj\Debug\netcoreapp3.1\CustomRegex.genruntimeconfig.cache

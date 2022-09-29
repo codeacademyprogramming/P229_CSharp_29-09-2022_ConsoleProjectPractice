@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\bin\Debug\netcoreapp3.1\BigONotation.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\bin\Debug\netcoreapp3.1\BigONotation.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\bin\Debug\netcoreapp3.1\BigONotation.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\bin\Debug\netcoreapp3.1\BigONotation.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\bin\Debug\netcoreapp3.1\BigONotation.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\bin\Debug\netcoreapp3.1\BigONotation.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22928092022\BigONotation\obj\Debug\netcoreapp3.1\BigONotation.genruntimeconfig.cache
